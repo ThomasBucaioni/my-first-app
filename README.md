@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
+> It is quite wrong for party conferences to be used as an excuse for the Commons not to sit. Conferences could be held at weekends.
 
 
 
