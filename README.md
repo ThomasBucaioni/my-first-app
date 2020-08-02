@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I pride myself on being courteous to people, and trying to fashion good relations.
+> I was proud to be a Tory Member of Parliament for twelve years, proud to represent Buckingham as a Tory, proud to have voted with my party 99% of the time as the record shows.
 
 
 
@@ -12,15 +12,15 @@ Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/joh
 
 ***
 
-# Steps
+## Steps
 
-1. [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-2. `script.sh`
+1. add an [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) key
+2. `~/bin/github_bot_script.sh`
 ```
 curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g > /tmp/john_bercow.txt
-my_max_lines=$(wc -l "/tmp/john_bercow.txt" | cut -d' ' -f1)
+my_max_lines=$(wc -l "/tmp/johnbercow.txt" | cut -d' ' -f1)
 my_rand=$((1 + RANDOM % my_max_lines))
-my_quote=$(sed "${my_rand}q;d" /tmp/john_bercow.txt)
+my_quote=$(sed "${my_rand}q;d" /tmp/johnbercow.txt)
 sed -i "7s/.*/> $my_quote/" /home/user/github/my-first-app/README.md
 
 cd /home/user/github/my-first-app/
@@ -36,6 +36,7 @@ git push
 3. `crontab -e`
 ```
 @daily date >> ~/date-file.txt
+@daily ~/bin/github_bot_script.sh > ~/github-bot-script.log
 ```
 
 ***
