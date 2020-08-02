@@ -4,6 +4,20 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes: _"Test."_
 
+
+
+***
+
+1. [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+2. script.sh
+```
+curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g
+```
+3. `crontab -e`
+```
+@daily date >> ~/date-file.txt
+```
+
 ***
 
 # my-first-app
