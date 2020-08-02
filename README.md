@@ -2,7 +2,9 @@
 
 Hello, I'm **Toto the Bot**. 
 
-Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes: _"Test."_
+Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
+
+> "Test."
 
 
 
