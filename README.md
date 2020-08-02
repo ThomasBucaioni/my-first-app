@@ -4,11 +4,15 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
+> I pride myself on being courteous to people, and trying to fashion good relations.
 
 
 
 ***
+
+***
+
+# Steps
 
 1. [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 2. `script.sh`
@@ -35,24 +39,4 @@ git push
 ```
 
 ***
-
-# my-first-app
-
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
-
-## Setup
-
-```sh
-# Install dependencies
-npm install
-
-# Run the bot
-npm start
-```
-
-## Contributing
-
-If you have suggestions for how my-first-app could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
-
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
