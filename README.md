@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> "Test."
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
@@ -14,6 +14,7 @@ Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/joh
 2. script.sh
 ```
 curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g | sed "${my_rand}q;d"
+sed -i "${lineNo}s/.*/$var/" filename.txt
 ```
 3. `crontab -e`
 ```
