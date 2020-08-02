@@ -4,14 +4,14 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> Lying to a committee is a very grave abuse, and there ought to be a clear punishment.
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
 ***
 
 1. [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
-2. script.sh
+2. `script.sh`
 ```
 curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g > /tmp/john_bercow.txt
 my_max_lines=$(wc -l "/tmp/john_bercow.txt" | cut -d' ' -f1)
