@@ -11,7 +11,7 @@ Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/joh
 1. [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 2. script.sh
 ```
-curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g
+curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g | sed "${my_rand}q;d"
 ```
 3. `crontab -e`
 ```
