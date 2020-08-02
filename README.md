@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I've never been much given to little social cliques.
+> I think the record shows that as Speaker, I have taken the lead in cleaning up politics.
 
 
 
