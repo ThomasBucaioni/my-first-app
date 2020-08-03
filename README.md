@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot**.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I was proud to be a Tory Member of Parliament for twelve years, proud to represent Buckingham as a Tory, proud to have voted with my party 99% of the time as the record shows.
+> I pride myself on being courteous to people, and trying to fashion good relations.
 
 
 
