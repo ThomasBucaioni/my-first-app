@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> It's a cowardly form of politics to use my spouse to beat me.
+> I've never been much given to little social cliques.
 
 
 
