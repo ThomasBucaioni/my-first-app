@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> 
+> There's no point in worrying about things you can't influence.
 
 
 
