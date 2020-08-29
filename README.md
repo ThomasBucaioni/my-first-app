@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> It is quite wrong for party conferences to be used as an excuse for the Commons not to sit. Conferences could be held at weekends.
+> It's a cowardly form of politics to use my spouse to beat me.
 
 
 
