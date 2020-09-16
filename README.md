@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I don't want to crawl over the entrails of past disputes.
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
