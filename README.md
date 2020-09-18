@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I do strongly believe myself that members of the government who sit in the House of Lords should be accountable to the elected House because otherwise there is a democratic deficit, and that is wrong.
+> It's a cowardly form of politics to use my spouse to beat me.
 
 
 
