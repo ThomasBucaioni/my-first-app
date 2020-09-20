@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> There are people who are just very, very sniffy and snobby and have always sort of looked down their noses at me.
+> A legislature cannot be effective while suffering from public scorn.
 
 
 
