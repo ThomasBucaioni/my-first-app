@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:.
 
 Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I think the record shows that as Speaker, I have taken the lead in cleaning up politics.
+> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
 
 
 
