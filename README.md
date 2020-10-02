@@ -1,10 +1,10 @@
 # Toto the Bot
 
-Hello, I'm **Toto the Bot** :robot:.
+Hello, I'm **Toto the Bot** :robot:
 
-Every day a propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
+Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm not psychic. I cannot know what is in the mind of particular public figures.
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
