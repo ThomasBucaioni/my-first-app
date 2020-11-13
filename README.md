@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I was proud to be a Tory Member of Parliament for twelve years, proud to represent Buckingham as a Tory, proud to have voted with my party 99% of the time as the record shows.
+> It is quite wrong for party conferences to be used as an excuse for the Commons not to sit. Conferences could be held at weekends.
 
 
 
