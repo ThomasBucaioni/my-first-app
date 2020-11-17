@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> When I first started out in politics I was, what you might describe as, a hard right Conservative.
+> I'm supremely uninterested as to what is written in many of the newspapers.
 
 
 
