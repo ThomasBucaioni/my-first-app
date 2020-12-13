@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> There is no denying or hiding the fact that over the years I moved from well on the right of the Conservative Party, much much more to its left, and therefore to the centre of the poltical spectrum.
+> I don't think that people are disinterested or uninterested in politics. I think very often they are disengaged from the formal political process. To some extent they are suspicious or even despairing of formal politics as a means to give expression and effect to what they want.
 
 
 
