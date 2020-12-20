@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm not psychic. I cannot know what is in the mind of particular public figures.
+> I'm supremely uninterested as to what is written in many of the newspapers.
 
 
 
