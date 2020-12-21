@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm supremely uninterested as to what is written in many of the newspapers.
+> Possibly the fact that I was physically quite feeble, a relatively short little fellow, attracted me to that idea of a very authoritative and aggressive version of Conservative politics.
 
 
 
