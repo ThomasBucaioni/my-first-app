@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I never aspired to be Speaker simply so I could say, 'I am the Speaker of the House of Commons,' and tell my children that.
+> There are people who are just very, very sniffy and snobby and have always sort of looked down their noses at me.
 
 
 
