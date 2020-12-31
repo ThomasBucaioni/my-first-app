@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> There are people who are just very, very sniffy and snobby and have always sort of looked down their noses at me.
+> There's no point in worrying about things you can't influence.
 
 
 
