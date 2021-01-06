@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If someone is being very cheeky, it can be quite fun to deal with that situation.
+> When I first started out in politics I was, what you might describe as, a hard right Conservative.
 
 
 
