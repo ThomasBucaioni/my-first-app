@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm not psychic. I cannot know what is in the mind of particular public figures.
+> I was proud to be a Tory Member of Parliament for twelve years, proud to represent Buckingham as a Tory, proud to have voted with my party 99% of the time as the record shows.
 
 
 
