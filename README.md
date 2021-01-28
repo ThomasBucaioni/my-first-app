@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> There is no denying or hiding the fact that over the years I moved from well on the right of the Conservative Party, much much more to its left, and therefore to the centre of the poltical spectrum.
+> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
 
 
 
