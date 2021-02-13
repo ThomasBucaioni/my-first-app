@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I think the record shows that as Speaker, I have taken the lead in cleaning up politics.
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
