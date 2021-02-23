@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
+> I said that if I hadn't been a politician, I'd have liked to be a barrister, or an academic. My beloved wife said: 'You'd be a very good barrister and a hopeless academic. I said 'Why?' She said: 'Because you're not an original thinker.
 
 
 
