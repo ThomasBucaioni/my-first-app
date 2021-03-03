@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> There is no denying or hiding the fact that over the years I moved from well on the right of the Conservative Party, much much more to its left, and therefore to the centre of the poltical spectrum.
+> I said that if I hadn't been a politician, I'd have liked to be a barrister, or an academic. My beloved wife said: 'You'd be a very good barrister and a hopeless academic. I said 'Why?' She said: 'Because you're not an original thinker.
 
 
 
