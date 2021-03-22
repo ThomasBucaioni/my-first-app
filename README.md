@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I pride myself on being courteous to people, and trying to fashion good relations.
+> Fairness is not about statistical equality.
 
 
 
