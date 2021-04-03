@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
+> I am seeking every day to restore faith in Parliament - to ensure we have a House of Commons which is representative, effective and reconnected to the people we serve.
 
 
 
