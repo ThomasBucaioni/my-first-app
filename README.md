@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I think the record shows that as Speaker, I have taken the lead in cleaning up politics.
+> I think the state opening of Parliament is an incredibly important occasion, and broadly speaking, the way in which it's done is an invaluable tradition.
 
 
 
