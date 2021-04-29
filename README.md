@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> The prime minister's job is to captain his team, his party and his government.
+> I think the state opening of Parliament is an incredibly important occasion, and broadly speaking, the way in which it's done is an invaluable tradition.
 
 
 
