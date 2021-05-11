@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> If someone is being very cheeky, it can be quite fun to deal with that situation.
+> I'm not in the business of warning people.
 
 
 
