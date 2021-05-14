@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> One consistent thing in an otherwise inconsistent career is that I've always been passionate about parliament.
+> I pride myself on being courteous to people, and trying to fashion good relations.
 
 
 
