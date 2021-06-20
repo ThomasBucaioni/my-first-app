@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> A legislature cannot be effective while suffering from public scorn.
+> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
 
 
 
