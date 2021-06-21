@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
+> I do strongly believe myself that members of the government who sit in the House of Lords should be accountable to the elected House because otherwise there is a democratic deficit, and that is wrong.
 
 
 
