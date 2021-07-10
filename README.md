@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> One consistent thing in an otherwise inconsistent career is that I've always been passionate about parliament.
+> If you asked me if I'd rather be Speaker or a very senior minister, I'd say Speaker.
 
 
 
