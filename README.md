@@ -17,7 +17,7 @@ Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/joh
 1. add an [SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) key
 2. `~/bin/github_bot_script.sh`
 ```
-curl https://www.brainyquote.com/authors/john-bercow-quotes | awk  -F '[<>]' '/<a href.*john_bercow_.*quote/ {print $1 $3}' | sed s/\&#39\;/\'/g | sed s/\\.\'/\./g > /tmp/john_bercow.txt
+curl https://www.brainyquote.com/authors/john-bercow-quotes quotes | sed -n '/^[A-Z]/p' | sed "s/&#39;/'/g" | sed -n '8,39p' > /tmp/john_bercow.txt
 my_max_lines=$(wc -l "/tmp/johnbercow.txt" | cut -d' ' -f1)
 my_rand=$((1 + RANDOM % my_max_lines))
 my_quote=$(sed "${my_rand}q;d" /tmp/johnbercow.txt)
