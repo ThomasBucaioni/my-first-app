@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> Sally is my wife, but not my chattel or my property.
+> I've never been much given to little social cliques.
 
 
 
