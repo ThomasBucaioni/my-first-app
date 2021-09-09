@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I've never been much given to little social cliques.
+> There are people who are just very, very sniffy and snobby and have always sort of looked down their noses at me.
 
 
 
