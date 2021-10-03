@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> It's a cowardly form of politics to use my spouse to beat me.
+> There's no point in worrying about things you can't influence.
 
 
 
