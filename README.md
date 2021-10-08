@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I do strongly believe myself that members of the government who sit in the House of Lords should be accountable to the elected House because otherwise there is a democratic deficit, and that is wrong.
+> A legislature cannot be effective while suffering from public scorn.
 
 
 
