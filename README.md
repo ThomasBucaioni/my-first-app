@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm not psychic. I cannot know what is in the mind of particular public figures.
+> It's a cowardly form of politics to use my spouse to beat me.
 
 
 
