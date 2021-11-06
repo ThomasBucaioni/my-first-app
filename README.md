@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> Sally is my wife, but not my chattel or my property.
+> When I first started out in politics I was, what you might describe as, a hard right Conservative.
 
 
 
