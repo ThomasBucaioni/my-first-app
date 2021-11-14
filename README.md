@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I don't want to crawl over the entrails of past disputes.
+> For far too long the House of Commons has been run as little more than a private club by and for gentleman amateurs.
 
 
 
