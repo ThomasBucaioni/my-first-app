@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> For far too long the House of Commons has been run as little more than a private club by and for gentleman amateurs.
+> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
 
 
 
