@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I don't think that people are disinterested or uninterested in politics. I think very often they are disengaged from the formal political process. To some extent they are suspicious or even despairing of formal politics as a means to give expression and effect to what they want.
+> I'm not in the business of warning people.
 
 
 
