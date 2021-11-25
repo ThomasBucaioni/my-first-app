@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I'm not psychic. I cannot know what is in the mind of particular public figures.
+> It is quite wrong for party conferences to be used as an excuse for the Commons not to sit. Conferences could be held at weekends.
 
 
 
