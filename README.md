@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I am seeking every day to restore faith in Parliament - to ensure we have a House of Commons which is representative, effective and reconnected to the people we serve.
+> There is no denying or hiding the fact that over the years I moved from well on the right of the Conservative Party, much much more to its left, and therefore to the centre of the poltical spectrum.
 
 
 
