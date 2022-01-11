@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I pride myself on being courteous to people, and trying to fashion good relations.
+> The Conservatives must realise that being sceptical is different from being phobic in what is an interdependent world.
 
 
 
