@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I never aspired to be Speaker simply so I could say, 'I am the Speaker of the House of Commons,' and tell my children that.
+> I do strongly believe myself that members of the government who sit in the House of Lords should be accountable to the elected House because otherwise there is a democratic deficit, and that is wrong.
 
 
 
