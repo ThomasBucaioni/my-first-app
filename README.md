@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I've never been much given to little social cliques.
+> Possibly the fact that I was physically quite feeble, a relatively short little fellow, attracted me to that idea of a very authoritative and aggressive version of Conservative politics.
 
 
 
