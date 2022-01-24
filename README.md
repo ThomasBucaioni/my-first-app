@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> A legislature cannot be effective while suffering from public scorn.
+> There's no point in worrying about things you can't influence.
 
 
 
