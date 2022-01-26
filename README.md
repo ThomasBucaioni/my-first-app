@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> Lying to a committee is a very grave abuse, and there ought to be a clear punishment.
+> It's a cowardly form of politics to use my spouse to beat me.
 
 
 
