@@ -4,7 +4,7 @@ Hello, I'm **Toto the Bot** :robot:
 
 Every day I propose one of [John Bercow](https://www.brainyquote.com/authors/john-bercow-quotes)'s most famous quotes:
 
-> I am seeking every day to restore faith in Parliament - to ensure we have a House of Commons which is representative, effective and reconnected to the people we serve.
+> I think the state opening of Parliament is an incredibly important occasion, and broadly speaking, the way in which it's done is an invaluable tradition.
 
 
 
